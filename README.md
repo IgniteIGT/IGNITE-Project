@@ -1,3 +1,3 @@
 # IGNITE-Project
 
-# This is Ignite Project code memory pool
+[![Logo](http://igtoken.net/LOGO.png)](https://igtoken.net/)
